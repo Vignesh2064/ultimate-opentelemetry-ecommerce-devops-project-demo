@@ -1,4 +1,6 @@
-<!-- markdownlint-disable-next-line -->
+> **Note:** This project is a fork of the [OpenTelemetry Demo](https://github.com/open-telemetry/opentelemetry-demo).  
+> Huge thanks to the OpenTelemetry team and all contributors for open-sourcing this amazing demo project and making it available to the community.
+
 # <img src="https://opentelemetry.io/img/logos/opentelemetry-logo-nav.png" alt="OTel logo" width="45"> OpenTelemetry Demo
 
 [![Slack](https://img.shields.io/badge/slack-@cncf/otel/demo-brightgreen.svg?logo=slack)](https://cloud-native.slack.com/archives/C03B4CWV4DA)
